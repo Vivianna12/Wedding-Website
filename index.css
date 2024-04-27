@@ -1,9 +1,9 @@
 h1 {
   color: white;
   position: absolute;
-  top: 9px;
+  top: 13px;
   right: 16px;
-  font-family: "Dancing Script", cursive;
+  font-family: "Courier New", Courier, monospace;
 }
 h2 {
   font-family: "Dancing Script", cursive;
@@ -16,9 +16,13 @@ h3 {
   font-family: "Dancing Script", cursive;
   text-align: center;
 }
+p {
+  font-family: "Courier New", Courier, monospace;
+}
 .container {
   text-align: center;
 }
 .wedding-info {
-  font-size: 57px;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
 }
